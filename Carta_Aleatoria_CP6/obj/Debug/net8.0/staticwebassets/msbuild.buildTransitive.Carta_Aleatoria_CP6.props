@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Carta_Aleatoria_CP6.props" />
+</Project>
