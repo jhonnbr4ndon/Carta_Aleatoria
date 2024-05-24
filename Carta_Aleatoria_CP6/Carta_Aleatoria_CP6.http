@@ -1,6 +1,0 @@
-@Carta_Aleatoria_CP6_HostAddress = http://localhost:5237
-
-GET {{Carta_Aleatoria_CP6_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
