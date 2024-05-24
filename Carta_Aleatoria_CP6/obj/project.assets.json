@@ -3565,11 +3565,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jhonn/Documents/ENTERPRISE APPLICATION DEVELOPMENT/Carta_Aleatoria_CP6/Carta_Aleatoria_CP6/Carta_Aleatoria_CP6.csproj",
+      "projectUniqueName": "/Users/jhonn/Documents/ENTERPRISE APPLICATION DEVELOPMENT/Carta_Aleatoria/Carta_Aleatoria_CP6/Carta_Aleatoria_CP6.csproj",
       "projectName": "Carta_Aleatoria_CP6",
-      "projectPath": "/Users/jhonn/Documents/ENTERPRISE APPLICATION DEVELOPMENT/Carta_Aleatoria_CP6/Carta_Aleatoria_CP6/Carta_Aleatoria_CP6.csproj",
+      "projectPath": "/Users/jhonn/Documents/ENTERPRISE APPLICATION DEVELOPMENT/Carta_Aleatoria/Carta_Aleatoria_CP6/Carta_Aleatoria_CP6.csproj",
       "packagesPath": "/Users/jhonn/.nuget/packages/",
-      "outputPath": "/Users/jhonn/Documents/ENTERPRISE APPLICATION DEVELOPMENT/Carta_Aleatoria_CP6/Carta_Aleatoria_CP6/obj/",
+      "outputPath": "/Users/jhonn/Documents/ENTERPRISE APPLICATION DEVELOPMENT/Carta_Aleatoria/Carta_Aleatoria_CP6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jhonn/.nuget/NuGet/NuGet.Config"

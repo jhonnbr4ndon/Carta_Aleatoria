@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mcyym+QEbVnOKbw1uJXxuFxFHS2gSnbpT9fkNFdK1Pmoj5z89ZFUm12bDihx5Buiyg6ZBepTkZmAoim7Z0MKNQ==",
+  "dgSpecHash": "18DStH3DnnAkQAu1LzDkJwdfhw8fRO7S6t1AovSeEP0WxV5k1afuir7ZTD0sNub9rXnomdrolHhsFa1FaPW4aw==",
   "success": true,
-  "projectFilePath": "/Users/jhonn/Documents/ENTERPRISE APPLICATION DEVELOPMENT/Carta_Aleatoria_CP6/Carta_Aleatoria_CP6/Carta_Aleatoria_CP6.csproj",
+  "projectFilePath": "/Users/jhonn/Documents/ENTERPRISE APPLICATION DEVELOPMENT/Carta_Aleatoria/Carta_Aleatoria_CP6/Carta_Aleatoria_CP6.csproj",
   "expectedPackageFiles": [
     "/Users/jhonn/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/jhonn/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.5/microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",

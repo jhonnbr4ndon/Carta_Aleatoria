@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carta_Aleatoria_CP6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1c17af123c7241ff9515058acd948048ef4c22f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carta_Aleatoria_CP6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carta_Aleatoria_CP6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
